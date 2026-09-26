@@ -1,2 +1,2 @@
 # ros2_ws
- Contains ROS lab work
+ A list of various projects done in ROS2
