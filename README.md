@@ -1,2 +1,2 @@
-# ros2_ws
+# ROS2 Projects
  A list of various projects done in ROS2
